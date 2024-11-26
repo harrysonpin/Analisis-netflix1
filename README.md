@@ -37,7 +37,9 @@ category_counts_recent = recent_years['listed_in'].str.split(', ').explode().val
 Integración con geoplot:
 
 Se presentaron dificultades para generar un mapa de calor.
+
 4. Otros intentos
+
 Google Sheets:
 
 Se intentó replicar el análisis en Google Sheets, pero la cantidad de datos dificultó la creación de gráficas.
