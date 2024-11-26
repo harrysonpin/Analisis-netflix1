@@ -21,15 +21,21 @@ month_added: Mes en que se añadió el contenido.
 El análisis se centra en el crecimiento del contenido en Netflix entre 2016 y 2021.
 
 ##2.1. Crecimiento de contenido por tipo
+
 Durante este periodo, el lanzamiento de películas fue mayor que el de series de televisión.
 Hacia el final del periodo estudiado, las series mostraron un ligero incremento, aunque las películas continuaron representando más del 50% del contenido subido.
+
 ##2.2. Distribución geográfica
+
 La mayoría del contenido se produjo en Estados Unidos e India.
+
 ##2.3. Categorías principales
+
 Las categorías más frecuentes fueron:
 Películas internacionales (International Movies).
 Comedias (Comedies).
 Acción y aventura (Action & Adventure).
+
 #3. Dificultades encontradas
 ---
 Análisis de los géneros (listed_in):
@@ -49,7 +55,7 @@ Google Sheets:
 
 Se intentó replicar el análisis en Google Sheets, pero la cantidad de datos dificultó la creación de gráficas.
 Además, solo se pudo analizar el primer género de cada película o serie debido a las limitaciones en la estructura de los datos.
-Hoja utilizada: Google Sheets https://docs.google.com/spreadsheets/d/1FSBSso_WpUcitYdNcREmvg9YeUT7zeSkuDrPUMRmiN4/edit?usp=sharing.
+Hoja utilizada: Google Sheets( https://docs.google.com/spreadsheets/d/1FSBSso_WpUcitYdNcREmvg9YeUT7zeSkuDrPUMRmiN4/edit?usp=sharing.)
 
 Uso de nuevas herramientas:
 
